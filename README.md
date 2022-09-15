@@ -1,7 +1,6 @@
 # Thymio-II bio-inspired pain model
 
-This is a robot pain model designed for Thymio-II.
-
+This is a robot pain model designed for Thymio-II for a Master 2 Resseach project.
 
 ## Author
 This work is done by Louis L'Haridon, phd student.
